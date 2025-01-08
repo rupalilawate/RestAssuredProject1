@@ -1,0 +1,6 @@
+DSLRestassured\GetRequestProg.class
+DSLRestassured\ValidateBasicAutentication.class
+runjenkinstest\CrossBrowserTesting.class
+DSLRestassured\ValidateStatusCode.class
+DSLRestassured\validateJSONResponse.class
+DSLRestassured\validateResponseHeader.class
